@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+#menusuperior{
+    background-color:#303030;
+    color: #fff;
+    height: 495px;
+}
+
+#titulo-superior{
+    font-size: 48px;
+    padding-top: 230px;
+    padding-left: 60px;
+}
+
+#paragrafo-superior{
+    font-size: 18px;
+    padding-left: 62px;
+}
+
+#informacional{
+    background-color:#F9F9F9;
+    height: 190px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.tituloinformacional{
+    margin-top: 85px;
+    margin-left:50px;
+}
+
+#informacaoempresa{
+    background-color: #ffffff;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    text-align: center;
+}
+
+#tituloempresa{
+    font-size: 33px;
+    text-align: justify;
+    margin-top: 220px;
+    margin-left: 50px;
+    text-align: justify;
+}
+
+#paragrafoempresa{
+    font-size: 18px;
+    margin-left: 50px;
+    text-align: justify;
+
+}
+
+#imagemarquitetura{
+    width: 415px;
+    height: 510px;
+    display: flex;
+    margin:75px 0px 75px 70px;
+}
+
+#formulario{
+  background-color:#303030;
+  text-align: center;
+  height: 630px;
+}
+
+#tituloformulario{
+    font-size: 30px;
+    color: #FFFFFF;
+    padding-top: 75px;
+}
+
+input{
+    color:#0000004D;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 455px;
+    height: 70px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 25px;
+    margin: 20px 0px 28px 0px;
+}
+
+button{
+    background-color: #C07212;
+    color: #FFFFFF;
+    font-size: 26px;
+    font-weight: bolder;
+    width: 260px;
+    height: 66px;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 65px;
+}
+
